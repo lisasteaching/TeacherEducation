@@ -26,14 +26,3 @@ The History and Proof webquest for the Pythagorean Theorem has three phases:</p>
 ### Webquest Files
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/pythagorean-theorem-history-proof-webquest.pdf" target="_blank">Instructions and Links</a> <br/>
 <a href="https://lisasteaching.github.io/portfolio_teaching/algebra/pythagorean-theorem-history-proof-worksheet.pdf" target="_blank">Worksheet</a>
-
-# Do Everything Twice
-
-The anticipatory set in this lesson engages students in a story that portrays a real-life scenario with a fictional twist. The story leads logically into the lesson where students discover the addition and subtraction properties of equality and develop a procedure for solving equations with them.
- 
-### Lesson Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Do-Everything-Twice-Lesson.pdf" target="_blank">Lesson Plan</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Do-Everything-Twice-GraphicOrg.pdf" target="_blank">Graphic Organizer</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Do-Everything-Twice-GuidedNotes.pdf" target="_blank">Guided Notes</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Do-Everything-Twice-Problem.pdf" target="_blank">Problem of the Day</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/Do-Everything-Twice-Problem-Cutouts.pdf" target="_blank">Problem Cutouts</a>
