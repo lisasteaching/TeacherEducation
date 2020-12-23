@@ -12,8 +12,8 @@ The Life Application webquest for the Pythagorean Theorem has three phases:</p>
 * Phase 3: Create your own problem that requires the Pythagorean Theorem. Include at least one criterion that requires gathering information to compare and contrast two or more options. Solve your problem.
 
 ### Webquest Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/pythagorean-theorem-life-application-webquest.pdf" target="_blank">Instructions and Links</a> <br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/pythagorean-theorem-life-application-worksheet.pdf" target="_blank">Worksheet</a>
+<a href="https://lisasteaching.github.io/TeacherCoursework/portfolio_teaching/algebra/pythagorean-theorem-life-application-webquest.pdf" target="_blank">Instructions and Links</a> <br/>
+<a href="https://lisasteaching.github.io/TeacherCoursework/portfolio_teaching/algebra/pythagorean-theorem-life-application-worksheet.pdf" target="_blank">Worksheet</a>
 
 # Pythagorean Theorm History and Proof Webquest
 
@@ -24,5 +24,5 @@ The History and Proof webquest for the Pythagorean Theorem has three phases:</p>
 * Phase 3: Evaluate three proofs of the Pythagorean Theorem and select one to paraphrase and reconstruct.
 
 ### Webquest Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/pythagorean-theorem-history-proof-webquest.pdf" target="_blank">Instructions and Links</a> <br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/algebra/pythagorean-theorem-history-proof-worksheet.pdf" target="_blank">Worksheet</a>
+<a href="https://lisasteaching.github.io/TeacherCoursework/portfolio_teaching/algebra/pythagorean-theorem-history-proof-webquest.pdf" target="_blank">Instructions and Links</a> <br/>
+<a href="https://lisasteaching.github.io/TeacherCoursework/portfolio_teaching/algebra/pythagorean-theorem-history-proof-worksheet.pdf" target="_blank">Worksheet</a>
